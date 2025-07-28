@@ -1,10 +1,10 @@
-import React from "react";
-import FetchingData from "./FetchingData";
+import Theme from "./Theme";
 
 const App = () => {
   return (
     <>
-      <FetchingData />
+      <Theme />
+      {/* <PropsDrilling /> */}
     </>
   );
 };
